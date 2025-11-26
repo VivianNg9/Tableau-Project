@@ -16,6 +16,6 @@ Note: The dataset included 10K sales records in each regions of USA
 
 ## 1️⃣ Insight: Are we growing in a healthy way?
 
-![image1](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image1.pdf)
+![image1]([https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image1.pdf](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image1.png)
 
 
