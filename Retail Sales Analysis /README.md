@@ -29,7 +29,8 @@ This project analyses a multi-year retail dataset (2020–2023) to understand ho
 
 ![Sales KPIs](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image1.png)
 
-- Sales grew from **~$480K (2020)** to **~$730K (2023)** – around **50% growth**.  
+- Sales grew from **~$480K (2020)** to **~$730K (2023)** – around **50% growth**.
+- In 2022, although sales was decreased 3% vs PY, it is witnessed an increase of 25% of the profit. 
 - Profit almost **doubled**, and margin improved from **~10% → ~13%**, while orders and units sold also increased.  
 - **2022–2023** show the **strongest acceleration** in both sales and orders.
 
@@ -61,7 +62,7 @@ Across all four years, revenue is concentrated in **Phones, Chairs, Binders, Sto
 - **Target:** Cut the annual loss from **Tables, Machines, Bookcases and Supplies by at least 50%**.  
   ➝ How can we **reprice, re-package or rationalise** these subcategories so they either reach a minimum margin or are removed from the range?
 
-- **Target:** Increase the share of revenue from **high-margin hero products** (Copiers, Accessories, Paper, Labels, Envelopes, Fasteners) by **5–10 percentage points**.  
+- **Target:** Increase the share of revenue from **high-margin hero products** (Copiers, Accessories, Phones, Paper) by **5–10 percentage points**.  
   ➝ How can we build **bundles, upsell rules and campaigns** that attach at least one hero product to every relevant order?
 
 - **Target:** Keep total **category margin at or above 2022 levels** while sales continue to grow.  
