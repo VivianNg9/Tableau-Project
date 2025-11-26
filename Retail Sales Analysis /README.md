@@ -1,4 +1,4 @@
-# Retail Sales Analysis 
+<h1 align="center">Retail Sales Analysis</h1>
 
 ## Interactive Dashboard
 🔗 [View the Tableau dashboard](https://public.tableau.com/app/profile/vivian.nguyen2372/viz/SalesCustomerDashboard_17359729426910/SalesDashboard)
