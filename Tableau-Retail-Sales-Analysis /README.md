@@ -11,7 +11,7 @@ This project analyses a multi-year retail dataset (2020–2023) to understand ho
 - The dashboards cover **Sales**, **Product**, **Customer** and **Seasonality** insights.
 
 > **Dataset:** ~10K sales records across regions in the USA  
-> 📂 [Link to dataset](https://github.com/VivianNg9/Tableau-Project/tree/main/Retail%20Sales%20Analysis%20/dataset)
+> 📂 [Link to dataset](https://github.com/VivianNg9/Tableau-Project/tree/main/Tableau-Retail-Sales-Analysis%20/dataset)
 
 ---
 
@@ -49,7 +49,7 @@ This project analyses a multi-year retail dataset (2020–2023) to understand ho
 
 ## 2️⃣ Insight: Are we selling the right products?
 
-![Product Mix](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image2.png)
+![Product Mix](https://github.com/VivianNg9/Tableau-Project/blob/main/Tableau-Retail-Sales-Analysis%20/image%20/image2.png)
 
 Across all four years, revenue is concentrated in **Phones, Chairs, Binders, Storage and Copiers**, but profit is not spread evenly:
 
@@ -72,7 +72,7 @@ Across all four years, revenue is concentrated in **Phones, Chairs, Binders, Sto
 
 ## 3️⃣ Insight: How are our customers behaving?
 
-![Customer Behaviour](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image3.png)
+![Customer Behaviour](https://github.com/VivianNg9/Tableau-Project/blob/main/Tableau-Retail-Sales-Analysis%20/image%20/image3.png)
 
 - The **customer base** grows from **595 (2020)** to **693 (2023)**, but growth in **orders and spend per customer is much faster**.
 - **Sales per customer** rises from **$814 → $1,058**, meaning existing customers are **buying more and/or higher-value baskets** each year.
@@ -98,7 +98,7 @@ Across all four years, revenue is concentrated in **Phones, Chairs, Binders, Sto
 
 ## 4️⃣ Insight: When is demand strongest and weakest?
 
-![Seasonality](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image4.png)
+![Seasonality](https://github.com/VivianNg9/Tableau-Project/blob/main/Tableau-Retail-Sales-Analysis%20/image%20/image4.png)
 
 - **Q4 is consistently the peak season**, with **November** often the best month for both sales and profit.  
 - **Q2 is softer**, with many weeks below average sales and profit.  
