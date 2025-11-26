@@ -52,7 +52,7 @@ This project analyses a multi-year retail dataset (2020–2023) to understand ho
 
 Across all four years, revenue is concentrated in **Phones, Chairs, Binders, Storage and Copiers**, but profit is not spread evenly:
 
-- **High-margin “hero” lines** – **Copiers, Accessories, Paper, Labels, Envelopes, Fasteners** – generate **strong profit from relatively modest sales**.
+- **High-margin** – **Copiers, Accessories, Phones, Paper** – generate **strong profit from relatively modest sales**.
 - **Furniture subcategories** – especially **Tables** (loss in almost every year) plus **Bookcases, Supplies and Machines** – regularly **destroy margin** despite solid sales.
 - The mix is drifting toward **more low-margin Furniture volume in 2023**, which helps sales but **pulls overall profitability down**.
 
