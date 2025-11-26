@@ -27,7 +27,7 @@ This project analyses a multi-year retail dataset (2020–2023) to understand ho
 
 ## 1️⃣ Insight: Are we growing in a healthy way?
 
-![Sales KPIs](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image1.png)
+![Sales KPIs](https://github.com/VivianNg9/Tableau-Project/blob/main/Tableau-Retail-Sales-Analysis%20/image%20/image1.png)
 
 - Sales grew from **~$480K (2020)** to **~$730K (2023)** – around **50% growth**.
 - In 2022, although sales was decreased 3% vs PY, it is witnessed an increase of 25% of the profit. 
