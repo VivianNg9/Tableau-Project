@@ -1,9 +1,11 @@
 # Retail Sales Analysis 
+
+## Interactive Dashboard is available [here](https://public.tableau.com/app/profile/vivian.nguyen2372/viz/SalesCustomerDashboard_17359729426910/SalesDashboard)
 ## Overview:
 Analyse a multi-year retail dataset (2020–2023) to understand how **sales, profit and customers performed in the period**, and what actions the business should take next.
 In the project, I have compared the YoY of the sales performance for each year.
 
-Note: The dataset included 10K sales records in each regions of USA 
+Note: The [dataset](https://github.com/VivianNg9/Tableau-Project/tree/main/Retail%20Sales%20Analysis%20/dataset) included 10K sales records in each regions of USA 
 
 ## Core Business Questions
 
@@ -13,6 +15,7 @@ Note: The dataset included 10K sales records in each regions of USA
 4. How **concentrated** is our profit in a small group of customers?
 5. How should we **plan next year’s strategy** (pricing, product, campaigns, loyalty) based on these insights?
 
+--- 
 
 ## 1️⃣ Insight: Are we growing in a healthy way?
 
@@ -31,15 +34,76 @@ Note: The dataset included 10K sales records in each regions of USA
 
 - **Target:** Support higher sales volume without blowing out operating costs.  
   ➝ **How can we use seasonal patterns from the dashboards to plan inventory and staffing more efficiently?**
-
+---
 ## 2️⃣ Insight: Are we selling the right products?
 
 ![image2](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image2.png)
 
-- **Technology & Office Supplies** consistently generate **strong margins** and solid growth.  
-- **Furniture** delivers large revenue but is a **margin risk**, with profit dropping sharply by 2023.  
-- **Tables, Supplies and Bookcases** are **chronically loss-making**; **Machines** flips to loss in 2023.  
-- High-margin “hero” lines include **Paper, Labels, Envelopes, Copiers, Accessories and Fasteners**.
+Across all four years, revenue is concentrated in **Phones, Chairs, Binders, Storage and Copiers**, but profit is not spread evenly:
+
+- **High-margin “hero” lines** (Copiers, Accessories, Paper, Labels, Envelopes, Fasteners) generate **strong profit from relatively modest sales**.
+- **Furniture subcategories** – especially **Tables** (loss in almost every year) plus **Bookcases, Supplies and Machines** – regularly **destroy margin** despite solid sales.
+- The mix is drifting toward **more low-margin Furniture volume by 2023**, which helps sales but **pulls overall profitability down**.
+
+### What should we do in 2024 
+
+- **Target:** Cut the annual loss from **Tables, Machines, Bookcases and Supplies by at least 50%**.  
+  ➝ **How can we reprice, re-package or rationalise these subcategories so they either reach a minimum margin or are removed from the range?**
+
+- **Target:** Increase the share of revenue from **high-margin hero products (Copiers, Accessories, Paper, Labels, Envelopes, Fasteners)** by **5–10 % points**.  
+  ➝ **How can we build bundles, upsell rules and campaigns that attach at least one hero product to every relevant order?**
+
+- **Target:** Keep total **category margin at or above 2022 levels** while sales continue to grow.  
+  ➝ **How can non-sales teams (finance, analytics, marketing, supply chain) agree on margin thresholds and dashboards that flag unprofitable products and promotions early?**
+---
+## 3️⃣ Insight: How are our customers behaving?
+
+![image3](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image3.png)
+
+- **Customer base:** grows steadily from **595 (2020)** to **693 (2023)**, but growth in **orders and spend per customer is much faster**.
+- **Sales per customer:** rises from **$814 → $1,058**, meaning existing customers are **buying more and/or higher-value baskets** each year.
+- **Order frequency:** we shift from mainly **one-off buyers in 2020** to a much larger **loyal segment in 2023**:
+  - 2020: 332 customers with **1 order**, only 85 with **3+ orders**.
+  - 2023: 200 customers with **1 order**, **293 customers with 3+ orders**.
+- **Top 10 customers** contribute a **disproportionate share of profit** every year, making them critical accounts to protect.
+  
+ ➝ Growth is being driven less by chasing new customers and more by **deepening relationships with existing ones**, especially a growing **loyal core** and a small **VIP group**.
+
+ ### What should we do in 2024 
+- **Target:** Increase the share of customers with **3+ orders/year** by at least **5–10%**.  
+  ➝ **How can we design loyalty benefits, reminders and bundles that encourage 1–2 order customers to place that third order?**
+
+- **Target:** Protect and grow revenue from the **Top 10–50 high-profit customers**.  
+  ➝ **How can we give these accounts differentiated service (pricing, support, early access) so they stay and grow with us?**
+
+- **Target:** Reduce the proportion of **one-off buyers** while keeping acquisition strong.  
+  ➝ **How can marketing and customer success follow up first-time buyers (email, offers, onboarding) so they return within the next quarter?**
+---
+
+## 4️⃣ Insight: When is demand strongest and weakest?
+
+![image3](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image4.png)
+
+- **Q4 is consistently the peak season**, with **November** often the best month.  
+- **Q2 is softer**, with many weeks below average sales and profit.  
+- Some weeks show **average sales but very high profit**, indicating periods with **tighter discounting or better product mix**.
+ ➝ The business has a reliable **peak season** and a repeatable **mid-year dip**. There are also clear examples of **“high-quality” weeks** where the margin is strong without needing extreme volume.
+
+ ### What should we do in 2024 
+ - **Target:** Lift Q2 sales to at least the **annual average level**.  
+  ➝ **How can we design Q2 campaigns (bundles, events, targeted offers) that copy the successful elements of Q4 without relying on heavy discounting?**
+
+- **Target:** Replicate more **“high-margin weeks”** throughout the year.  
+  ➝ **How can we analyse the pricing, discount and product mix of past high-profit weeks and turn them into clear rules for future promotions?**
+
+- **Target:** Match **operations and inventory** to the demand pattern.  
+  ➝ **How can forecasting, supply chain and staffing plans be aligned to handle Q4 peaks and avoid over-capacity during weaker Q2 weeks?**
+
+
+
+
+
+
 
   
 
