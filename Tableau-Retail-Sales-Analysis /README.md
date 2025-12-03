@@ -128,5 +128,3 @@ From 2020–2023 the business has moved from **stable performance to strong grow
 - **Protect margin while growing:** tighten discounting and set clear margin targets so profit grows at least as fast as revenue.  
 - **Improve product mix:** fix or rationalise loss-making Furniture lines and push more volume through high-margin hero products via bundles and cross-sell.  
 - **Leverage customers and seasonality:** grow the 3+ order loyal segment, protect top accounts, and plan campaigns around strong **Q4 peaks** and weaker **Q2** periods.
-
-This turns the dashboards into a **clear, business-ready story** that supports decision-making for the next year’s strategy.
