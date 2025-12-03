@@ -27,7 +27,7 @@ This project analyses a multi-year retail dataset (2020–2023) to understand ho
 
 ## 1️⃣ Insight: Are we growing in a healthy way?
 
-![Sales KPIs](https://github.com/VivianNg9/Tableau-Project/blob/main/Retail%20Sales%20Analysis%20/image%20/image1.png)
+![Sales KPIs](https://github.com/VivianNg9/Tableau-Project/blob/main/Tableau-Retail-Sales-Analysis%20/image%20/image1.png)
 
 - Sales grew from **~$480K (2020)** to **~$730K (2023)** – around **50% growth**.
 - In 2022, although sales was decreased 3% vs PY, it is witnessed an increase of 25% of the profit. 
@@ -128,5 +128,3 @@ From 2020–2023 the business has moved from **stable performance to strong grow
 - **Protect margin while growing:** tighten discounting and set clear margin targets so profit grows at least as fast as revenue.  
 - **Improve product mix:** fix or rationalise loss-making Furniture lines and push more volume through high-margin hero products via bundles and cross-sell.  
 - **Leverage customers and seasonality:** grow the 3+ order loyal segment, protect top accounts, and plan campaigns around strong **Q4 peaks** and weaker **Q2** periods.
-
-This turns the dashboards into a **clear, business-ready story** that supports decision-making for the next year’s strategy.
